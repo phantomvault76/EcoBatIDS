@@ -1,6 +1,7 @@
 <div align='center'>
 
-<img src=/public/ecobat_logo.png alt="logo" width= height= />
+![EcoBat Logo](public/ecobat_logo.png)
+
 
 <h1>Protect your network with the power of bats!</h1>
 <p>EcoBat IDS is a lightweight yet powerful Network Intrusion Detection System that combines real-time traffic analysis with advanced threat detection. Inspired by the echolocation capabilities of bats, EcoBat "listens" to your network traffic to identify suspicious patterns and potential attacks.</p>

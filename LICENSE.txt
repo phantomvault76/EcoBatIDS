@@ -1,0 +1,20 @@
+EcoBat IDS – All Rights Reserved License
+SPDX-License-Identifier: LicenseRef-All-Rights-Reserved
+
+Copyright (c) 2025 Gabriel. All rights reserved.
+
+Este software é disponibilizado sem qualquer licença pública. 
+Você NÃO tem permissão para usar, copiar, modificar, mesclar, publicar, distribuir, 
+sublicenciar, compilar, vender ou explorar este software, no todo ou em parte, 
+sem autorização prévia e expressa, por escrito, do detentor dos direitos autorais.
+
+Qualquer uso não autorizado constitui violação de direitos autorais e poderá 
+resultar em medidas legais.
+
+O software é fornecido “NO ESTADO EM QUE SE ENCONTRA”, sem garantias 
+de qualquer tipo, expressas ou implícitas, incluindo, sem limitação, garantias 
+de comercialização, adequação a um propósito específico e não violação. 
+Em nenhum caso o(s) autor(es) será(ão) responsável(is) por quaisquer danos 
+decorrentes do uso deste software.
+
+Para consultas de licenciamento/comercial: <seu-email-aqui>
